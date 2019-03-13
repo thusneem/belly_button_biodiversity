@@ -9,17 +9,18 @@
 
   
   ![Bubble Chart](Images/bubble_chart.png)
+  
+* Created a guage Chart .
+![Weekly Washing Frequency Gauge](Images/gauge.png)
 
-
-
+Dashboard
 ![Example Dashboard Page](Images/dashboard_part1.png)
 ![Example Dashboard Page](Images/dashboard_part2.png)
-![Weekly Washing Frequency Gauge](Images/gauge.png)
 
 
 ## Step 2 - Heroku
 
-Deploy your Flask app to Heroku.
+Deployed Flask app to Heroku.
 
 
 

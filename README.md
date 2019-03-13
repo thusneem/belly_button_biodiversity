@@ -20,7 +20,7 @@ Dashboard
 
 ## Step 2 - Heroku
 
-Deployed Flask app to Heroku.
+Deployed Dashboard through Flask app to Heroku.
 
 
 
